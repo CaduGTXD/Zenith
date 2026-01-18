@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CaduGTXD/Zenith/refs/heads/main/Zenith_Public.lua",true))()
